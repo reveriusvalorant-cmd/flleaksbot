@@ -4,7 +4,7 @@
   "description": "Bot Discord avec système de vérification",
   "main": "bot-simple.js",
   "scripts": {
-    "start": "node bot-webhook-monitor.js"
+    "start": "ticket-leak-bot.js"
   },
   "keywords": ["discord", "bot", "verification"],
   "author": "",
